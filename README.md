@@ -20,15 +20,6 @@ This project focuses on analyzing blockchain transaction data using AI models to
 
 ## Project Structure
 
-ai-applications-in-blockchain/
-│── blockchain-fraud-detection/
-│   │── data/
-│   │── notebooks/
-│   │── src/
-│   │── README.md
-│
-│── requirements.txt
-│── README.md
 
 ## Status
 🚧 Repository initialized. Implementation in progress.
