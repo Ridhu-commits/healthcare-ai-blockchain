@@ -1,6 +1,3 @@
-# AI Applications in Blockchain
+# Healthcare AI + Blockchain
 
-
-
-## Status
-🚧 Repository initialized. Implementation in progress.
+Backend with FastAPI and AI risk prediction.
