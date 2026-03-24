@@ -1,3 +1,5 @@
 fastapi
 uvicorn
 scikit-learn
+web3
+python-dotenv
